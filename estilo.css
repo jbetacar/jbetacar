@@ -1,0 +1,9 @@
+body {
+    width: 600px;
+    margin: 0 auto; 
+    background-color: silver;
+}
+
+ul {
+    list-style: decimal-leading-zero inside;
+}    
